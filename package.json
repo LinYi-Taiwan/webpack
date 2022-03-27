@@ -187,6 +187,7 @@
     "isexe": "^2.0.0",
     "isobject": "^3.0.1",
     "jest-worker": "^27.4.6",
+    "jquery": "^3.6.0",
     "js-tokens": "^4.0.0",
     "js-yaml": "^3.14.1",
     "json-parse-better-errors": "^1.0.2",
@@ -397,14 +398,14 @@
   "license": "ISC",
   "browserslist": {
     "development": [
-    "last 1 chrome version",
-    "last 1 firefox version",
-    "last 1 safari version"
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
     ],
     "production": [
-    ">0.2%",
-    "not dead", 
-    "not op_mini all"
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
     ]
-}
+  }
 }
